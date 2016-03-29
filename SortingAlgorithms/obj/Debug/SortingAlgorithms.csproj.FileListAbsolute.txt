@@ -1,0 +1,5 @@
+D:\WorkSpace\Visual Studio Workspaces\SortingAlgorithms\bin\Debug\SortingAlgorithms.dll
+D:\WorkSpace\Visual Studio Workspaces\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+D:\WorkSpace\Visual Studio Workspaces\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Visual Studio Workspaces\SortingAlgorithms\obj\Debug\SortingAlgorithms.dll
+D:\WorkSpace\Visual Studio Workspaces\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
